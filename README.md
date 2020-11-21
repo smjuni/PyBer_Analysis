@@ -52,7 +52,7 @@ The below chart highlights the key differences between different city types.
 
     One area that could be further researched is that there are many drivers that are providing zero rides in our dataset. If this is a finding of concern (lost revenue or cost to PyBer) it would be worth researching why drivers are not driving (maybe due to the low average fare per driver?) and which urban cities are most greatly affected. 
 
-2.  The average fare per driver is significantly lower in the Urban cities, likely related to having many drivers not actually driving. Whereas the average fare per ride is lower than both rural and suburban but by a more proportionate level. It will important to understand if this is due to low demand, shorter distances travelled or over-saturated driver count.  
+2.  The average fare per driver is significantly lower in the Urban cities, likely related to having many drivers not actually driving. However, there could be other reasons and it will important to understand if this is due to low demand, shorter distances travelled or over-saturated driver count. 
 
 3.  According to our Weekly Fare by City Type graph, mid-february seems to have a peak in fares in all city types. Perhaps this is attributed to a holiday (such as Valentine's Day)? Or perhaps there was poor weather in the whole region? It could be interesting for the CEO to see if this is a consistent trend across the years.          
     Early April has a peak in Rural and Urban city types, similar research could be done to see if there are any data that suggests that this could be a pattern across the years.
